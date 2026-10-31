@@ -60,21 +60,6 @@ I'm currently learning **Data Science with AI** and building my skills for data 
 
 ---
 
-<h2 align="center">🎯 Learning Roadmap</h2>
-
-| Skill | Status |
-|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" align="absmiddle" /> &nbsp;**Python** | ✅ Completed |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" align="absmiddle" /> &nbsp;**NumPy & Pandas** | ✅ Completed |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="24" align="absmiddle" /> &nbsp;**Matplotlib & Seaborn** | ✅ Completed |
-| <img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/assets/excel.svg" width="24" align="absmiddle" /> &nbsp;**Excel** | ✅ Completed |
-| <img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/assets/powerbi.svg" width="24" align="absmiddle" /> &nbsp;**Power BI** | ✅ Completed |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" align="absmiddle" /> &nbsp;**SQL** | 🔄 Learning |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="24" align="absmiddle" /> &nbsp;**Machine Learning** | 🔄 Learning |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" align="absmiddle" /> &nbsp;**AI / Deep Learning** | 📌 Next |
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
