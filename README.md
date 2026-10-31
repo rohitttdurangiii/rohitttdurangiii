@@ -29,7 +29,7 @@ I'm currently learning **Data Science with AI** and building my skills for data 
 </td>
 <td width="260" align="center">
 
-<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/assets/pixel-man.jpg" width="260" alt="Pixel art illustration" />
+<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/pixel-man.jpg" width="260" alt="Pixel art illustration" />
 
 </td>
 </tr>
