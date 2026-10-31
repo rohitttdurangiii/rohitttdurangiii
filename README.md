@@ -22,14 +22,6 @@ My degree gave me a strong base across **technology, accounting, and management*
 
 I'm currently learning **Data Science with AI** and building my skills for data analyst and data science roles.
 
-**What I've completed so far:**
-- ✅ Python
-- ✅ Statistics
-- ✅ NumPy & Pandas
-- ✅ Matplotlib & Seaborn
-- ✅ Excel
-- ✅ Power BI
-
 **Currently learning:** Machine Learning, SQL, and AI-based data projects.
 
 **My goal:** To become a skilled **Data Specialist** who uses data to solve real business problems, with interests in **FinTech**, **E-commerce analytics**, and **MIS / Business Analyst** roles.
