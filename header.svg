@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b2e"/></linearGradient>
+<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity=".35"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".25" stop-color="#fff"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<mask id="m"><rect x="440" width="560" height="220" fill="url(#fade)"/></mask>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#58a6ff" stroke-opacity=".06"/></pattern>
+<clipPath id="r"><rect width="1000" height="220" rx="16"/></clipPath>
+</defs>
+<style>
+.n{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.line{stroke-dasharray:900;animation:draw 6s ease-in-out infinite}
+@keyframes draw{0%{stroke-dashoffset:900}45%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:-900}}
+.area{animation:fa 6s ease-in-out infinite}
+@keyframes fa{0%,10%{opacity:0}45%,85%{opacity:1}100%{opacity:0}}
+.pt{animation:pt 6s ease-in-out infinite}
+@keyframes pt{0%,40%{opacity:0}50%,85%{opacity:1}100%{opacity:0}}
+.t{animation:in 1s ease-out both}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1000" height="220" fill="url(#bg)"/>
+<rect width="1000" height="220" fill="url(#grid)"/>
+<g mask="url(#m)">
+<path class="area" d="M440 170 C500 160 520 120 580 128 S660 170 720 120 S800 60 860 82 S940 40 1000 30 V220 H440Z" fill="url(#area)"/>
+<path class="line" d="M440 170 C500 160 520 120 580 128 S660 170 720 120 S800 60 860 82 S940 40 1000 30" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round"/>
+<g class="pt" fill="#0d1117" stroke="#bc8cff" stroke-width="2.5"><circle cx="580" cy="128" r="5"/><circle cx="720" cy="120" r="5"/><circle cx="860" cy="82" r="5"/></g>
+</g>
+<text class="n t" x="56" y="98" font-size="52" font-weight="700" fill="url(#nm)">Rohit Tirmale</text>
+<text class="n t" style="animation-delay:.25s" x="58" y="136" font-size="20" fill="#c9d1d9">Data Science &amp; AI Learner</text>
+<text class="n t" style="animation-delay:.5s" x="58" y="168" font-size="14" fill="#8b949e" letter-spacing="1">PYTHON  ·  SQL  ·  POWER BI  ·  EXCEL</text>
+<rect x="58" y="182" width="48" height="3" rx="1.5" fill="#58a6ff"/>
+</g>
+</svg>
