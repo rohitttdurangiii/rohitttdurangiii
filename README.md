@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:bc8cff,100:ff7eb6&height=200&section=header&text=Rohit%20Tirmale&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Learner&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/header.svg" width="100%" alt="Rohit Tirmale - Data Science & AI Learner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=520&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Data+Science+with+AI" alt="Typing SVG" />
 
