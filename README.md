@@ -42,7 +42,7 @@ I'm currently learning **Data Science with AI** and building my skills for data 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96"><a href="https://github.com/rohitttdurangiii"><img src="https://cdn.simpleicons.org/github/white" width="48" height="48" alt="GitHub" /></a><br/><sub><b>GitHub</b></sub></td><td align="center" width="96"><a href="https://www.linkedin.com/in/rohit-tirmale-a33630331/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" /></a><br/><sub><b>LinkedIn</b></sub></td><td align="center" width="96"><a href="mailto:rohitttdurange@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail" /></a><br/><sub><b>Gmail</b></sub></td>
+<td align="center" width="96"><a href="https://github.com/rohitttdurangiii"><img src="https://cdn.simpleicons.org/github/white" width="48" height="48" alt="GitHub" /></a><br/><sub><b>GitHub</b></sub></td><td align="center" width="96"><a href="https://www.linkedin.com/in/rohit-tirmale-a33630331/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" /></a><br/><sub><b>LinkedIn</b></sub></td><td align="center" width="96"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohitttdurange@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail" /></a><br/><sub><b>Gmail</b></sub></td>
 </tr>
 </table>
 </div>
