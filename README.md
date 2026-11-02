@@ -35,13 +35,6 @@ Aiming to master every data role, turning raw data into decisions end to end.
 <td align="center" width="96"><a href="mailto:rohitttdurange@gmail.com?subject=Hello%20Rohit"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail" /></a><br/><sub><b>Gmail</b></sub></td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="mailto:rohitttdurange@gmail.com?subject=Hello%20Rohit">📧 Send Email</a> |
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohitttdurange@gmail.com&su=Hello%20Rohit">Open in Gmail (browser)</a>
-</p>
-
-<p align="center">rohitttdurange@gmail.com</p>
 </div>
 
 ---
