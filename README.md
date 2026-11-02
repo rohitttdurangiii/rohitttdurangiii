@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/header%20(2).svg" width="100%" alt="Rohit Tirmale - Data Science & AI Learner" />
+<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/header%20(2).svg" width="100%" alt="Rohit Tirmale - Aspiring Data Professional" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9D1D=FFFFFF9&center=true&vCenter=true&width=520&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Data+Science+with+AI" alt="Typing SVG" />
 
@@ -14,16 +14,13 @@ Turning messy data into clear insights with clean analysis and meaningful visual
 
 <img align="right" src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/pixel-man.jpg" width="250" alt="Pixel art illustration" hspace="16" vspace="4" />
 
-Hi, I'm Rohit, a **BBA (E-Commerce) graduate** from R.C. Patel Arts, Commerce and Science College, Shirpur (KBCNMU, Jalgaon).
+I'm building my career in the data world, one project at a time. With a business-and-tech background (BBA in E-Commerce), I like turning raw data into decisions that actually matter, especially in FinTech and E-commerce.
 
 My degree gave me a strong base across **technology, accounting, and management**, which helps me understand the business side behind the data, not just the code.
 
-I'm currently learning **Data Science with AI** and building my skills for data analyst and data science roles.
+Currently upskilling full time for entry-level roles in Data Analytics, Data Science and AI
 
-**Currently learning:** Machine Learning, SQL, and AI-based data projects.
-
-**My goal:** To become a skilled **Data Specialist** who uses data to solve real business problems, with interests in **FinTech**, **E-commerce analytics**, and **MIS / Business Analyst** roles.
-
+Aiming to master every data role, turning raw data into decisions end to end.
 <br clear="left" />
 
 ---
