@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/header%20(1).svg" width="100%" alt="Rohit Tirmale - Data Science & AI Learner" />
+<img src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/header%20(2).svg" width="100%" alt="Rohit Tirmale - Data Science & AI Learner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9D1D=FFFFFF9&center=true&vCenter=true&width=520&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Data+Science+with+AI" alt="Typing SVG" />
 
