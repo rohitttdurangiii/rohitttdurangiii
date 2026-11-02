@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9D1D=FFFFFF9&center=true&vCenter=true&width=520&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Data+Science+with+AI" alt="Typing SVG" />
 
-Turning messy data into clear insights with clean analysis and meaningful visuals.
+Aiming to master every data role, turning raw data into decisions end to end.
 
 </div>
 
