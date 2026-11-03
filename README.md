@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/pixel-man.jpg" width="250" alt="Pixel art illustration" hspace="16" vspace="4" />
+<img align="right" src="https://raw.githubusercontent.com/rohitttdurangiii/rohitttdurangiii/main/pixel-man.jpg" width="235" alt="Pixel art illustration" hspace="16" vspace="4" />
 
 I'm building my career in the data world, one project at a time. With a business-and-tech background (BBA in E-Commerce), I like turning raw data into decisions that actually matter, especially in FinTech and E-commerce.
 
